@@ -1,0 +1,18 @@
+{
+    "name": "ITKamianets.Engine.Network.Editor",
+    "rootNamespace": "ITKamianets.Engine.Network.Editor",
+    "references": [
+        "ITKamianets.Engine.Network"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

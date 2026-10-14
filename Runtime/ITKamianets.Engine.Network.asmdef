@@ -1,0 +1,22 @@
+{
+    "name": "ITKamianets.Engine.Network",
+    "rootNamespace": "ITKamianets.Engine.Network",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.Character",
+        "Unity.Netcode.Runtime",
+        "Unity.Networking.Transport",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "com.itkamianets.3d-unity-network",
+  "version": "0.1.0",
+  "displayName": "IT-Kamianets 3D Engine: Unity Network",
+  "description": "Real-time multiplayer on Netcode for GameObjects: host, dedicated server and client sessions, server-authoritative characters with client prediction and interpolation, and session messages, results and replays in 3d-network-schema format. No game rules.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "author": {
+    "name": "IT Kamianets"
+  },
+  "keywords": [
+    "3d-engine",
+    "it-kamianets"
+  ],
+  "dependencies": {
+    "com.itkamianets.3d-unity-core": "0.1.0",
+    "com.itkamianets.3d-unity-character": "0.1.0",
+    "com.unity.netcode.gameobjects": "2.13.3",
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  }
+}
